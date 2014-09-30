@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.21)  29 SEP 2014 00:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.21)  30 SEP 2014 12:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -200,7 +200,7 @@ Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box29
 ) (./bare_jrnl.aux
 
-LaTeX Warning: Label `Table 3' multiply defined.
+LaTeX Warning: Label `table6' multiply defined.
 
 )
 \openout1 = `bare_jrnl.aux'.
@@ -277,60 +277,64 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 456.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 456.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 456.
+
 Underfull \hbox (badness 1383) in paragraph at lines 462--464
 []\OT1/ptm/b/it/9 Index Terms\OT1/ptm/b/n/9 ---big data, elec-tro-car-dio-g-ra-
 phy clas-si-fi-ca-tion,
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 538.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 538.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 538.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 576.
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 538.
+
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 607.
+               Default added (so using `tbp') on input line 608.
 
 Package epstopdf Info: Source file: <Figure1.eps>
-(epstopdf)                    date: 2014-09-28 18:43:28
-(epstopdf)                    size: 348587 bytes
+(epstopdf)                    date: 2014-09-29 17:27:34
+(epstopdf)                    size: 312558 bytes
 (epstopdf)             Output file: <Figure1-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-09-28 18:43:43
-(epstopdf)                    size: 81348 bytes
+(epstopdf)                    date: 2014-09-29 17:27:48
+(epstopdf)                    size: 70365 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figure1-eps-converted-to.p
 df Figure1.eps>
-(epstopdf)             \includegraphics on input line 609.
+(epstopdf)             \includegraphics on input line 610.
 Package epstopdf Info: Output file is already uptodate.
-<Figure1-eps-converted-to.pdf, id=13, 542.025pt x 361.35pt>
+<Figure1-eps-converted-to.pdf, id=11, 527.9725pt x 361.35pt>
 File: Figure1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure1-eps-converted-to.pdf>
-Package pdftex.def Info: Figure1-eps-converted-to.pdf used on input line 609.
-(pdftex.def)             Requested size: 231.26378pt x 154.17548pt.
- [3 <./Figure1-eps-converted-to.pdf>]
-Underfull \hbox (badness 1824) in paragraph at lines 663--665
+Package pdftex.def Info: Figure1-eps-converted-to.pdf used on input line 610.
+(pdftex.def)             Requested size: 231.26378pt x 158.2777pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 618.
+ [2] [3 <./Figure1-eps-converted-to.pdf>]
+Underfull \hbox (badness 1824) in paragraph at lines 664--666
  \OT1/ptm/m/it/10 4) Train-ing Stacked Au-toen-coders: [][] \OT1/ptm/m/n/10 Au-
 toen-coders have
  []
 
+[4]
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no ∏ in font cmr10!
-[4]
-Overfull \hbox (8.50308pt too wide) in paragraph at lines 792--808
+
+Overfull \hbox (8.50308pt too wide) in paragraph at lines 793--809
  [] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 813.
+               Default added (so using `tbp') on input line 814.
 
 Package epstopdf Info: Source file: <Figure2.eps>
 (epstopdf)                    date: 2014-09-28 19:14:01
@@ -340,18 +344,18 @@ Package epstopdf Info: Source file: <Figure2.eps>
 (epstopdf)                    size: 61394 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figure2-eps-converted-to.p
 df Figure2.eps>
-(epstopdf)             \includegraphics on input line 815.
+(epstopdf)             \includegraphics on input line 816.
 Package epstopdf Info: Output file is already uptodate.
-<Figure2-eps-converted-to.pdf, id=61, 1171.37625pt x 701.62125pt>
+<Figure2-eps-converted-to.pdf, id=64, 1171.37625pt x 701.62125pt>
 File: Figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure2-eps-converted-to.pdf>
-Package pdftex.def Info: Figure2-eps-converted-to.pdf used on input line 815.
+Package pdftex.def Info: Figure2-eps-converted-to.pdf used on input line 816.
 (pdftex.def)             Requested size: 469.75499pt x 281.37152pt.
  [5]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 859.
+               Default added (so using `tbp') on input line 860.
 
 Package epstopdf Info: Source file: <Figure3.eps>
 (epstopdf)                    date: 2014-09-28 19:19:46
@@ -361,58 +365,103 @@ Package epstopdf Info: Source file: <Figure3.eps>
 (epstopdf)                    size: 16531 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figure3-eps-converted-to.p
 df Figure3.eps>
-(epstopdf)             \includegraphics on input line 861.
+(epstopdf)             \includegraphics on input line 862.
 Package epstopdf Info: Output file is already uptodate.
-<Figure3-eps-converted-to.pdf, id=66, 491.8375pt x 347.2975pt>
+<Figure3-eps-converted-to.pdf, id=68, 491.8375pt x 347.2975pt>
 File: Figure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure3-eps-converted-to.pdf>
-Package pdftex.def Info: Figure3-eps-converted-to.pdf used on input line 861.
+Package pdftex.def Info: Figure3-eps-converted-to.pdf used on input line 862.
 (pdftex.def)             Requested size: 216.81pt x 153.09222pt.
- [6 <./Figure2-eps-converted-to.pdf> <./Figure3-eps-converted-to.pdf>] (./bare_
-jrnl.bbl
+ [6 <./Figure2-eps-converted-to.pdf> <./Figure3-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 967.
+
+Package epstopdf Info: Source file: <Figure4.eps>
+(epstopdf)                    date: 2014-09-29 14:43:36
+(epstopdf)                    size: 1421383 bytes
+(epstopdf)             Output file: <Figure4-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-29 14:43:43
+(epstopdf)                    size: 16303 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure4-eps-converted-to.p
+df Figure4.eps>
+(epstopdf)             \includegraphics on input line 969.
+Package epstopdf Info: Output file is already uptodate.
+<Figure4-eps-converted-to.pdf, id=117, 561.09625pt x 422.57875pt>
+File: Figure4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figure4-eps-converted-to.pdf>
+Package pdftex.def Info: Figure4-eps-converted-to.pdf used on input line 969.
+(pdftex.def)             Requested size: 231.26378pt x 174.16757pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1010.
+
+Package epstopdf Info: Source file: <Figure5.eps>
+(epstopdf)                    date: 2014-09-29 14:58:04
+(epstopdf)                    size: 1421383 bytes
+(epstopdf)             Output file: <Figure5-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-29 14:59:55
+(epstopdf)                    size: 13085 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figure5-eps-converted-to.p
+df Figure5.eps>
+(epstopdf)             \includegraphics on input line 1012.
+Package epstopdf Info: Output file is already uptodate.
+<Figure5-eps-converted-to.pdf, id=118, 561.09625pt x 422.57875pt>
+File: Figure5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figure5-eps-converted-to.pdf>
+Package pdftex.def Info: Figure5-eps-converted-to.pdf used on input line 1012.
+(pdftex.def)             Requested size: 231.26378pt x 174.16757pt.
+ [7 <./Figure4-eps-converted-to.pdf>]
+[8 <./Figure5-eps-converted-to.pdf>] (./bare_jrnl.bbl
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no Å in font ptmr7t!
- [7]
+ [9]
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
-) [8] (./bare_jrnl.aux)
+) [10]
+(./bare_jrnl.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3062 strings out of 493117
- 45697 string characters out of 6135433
- 122746 words of memory out of 5000000
- 6481 multiletter control sequences out of 15000+600000
- 44683 words of font info for 79 fonts, out of 8000000 for 9000
+ 3082 strings out of 493117
+ 46077 string characters out of 6135433
+ 121784 words of memory out of 5000000
+ 6497 multiletter control sequences out of 15000+600000
+ 44517 words of font info for 81 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 38i,18n,28p,1281b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,18n,28p,1397b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/font
-s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/ur
-w/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/u
-tmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on bare_jrnl.pdf (8 pages, 359732 bytes).
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times
+/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_jrnl.pdf (10 pages, 414199 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 204 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
